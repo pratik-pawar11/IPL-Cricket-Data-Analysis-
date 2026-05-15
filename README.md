@@ -128,35 +128,16 @@ Ranked all teams by total wins across all seasons. Mumbai Indians and Chennai Su
 
 ---
 
-### 2. 🏏 Top 10 Batsmen
-Aggregated total runs per batsman across all deliveries. Virat Kohli leads the all-time charts.
-
-![Top Batsmen](images/top_batsmen.png)
-
----
-
-### 3. 🎯 Toss Impact on Match Results
+### 2. 🎯 Toss Impact on Match Results
 Analyzed whether toss-winning teams win more often. Choosing to **field first** gives a slight edge.
 
 ![Toss Impact](images/toss_impact.png)
 
 ---
 
-### 4. ⚔️ Virat Kohli vs Rohit Sharma
+### 3. ⚔️ Virat Kohli vs Rohit Sharma
 Head-to-head comparison on Total Runs, Strike Rate, Fours, Sixes, and Match Averages.
 
-![Player Comparison](images/player_comparison.png)
-
----
-
-### 5. 📅 Season-Wise Performance
-Line and bar charts showing how the tournament has grown in size and scoring across seasons.
-
-### 6. 🏟️ Venue Analysis
-Top venues by matches hosted and average runs per match.
-
-### 7. 🔥 Highest Scoring Matches
-Combined innings run totals to identify the biggest run-fests in IPL history.
 
 ---
 
