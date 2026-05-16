@@ -124,14 +124,14 @@ IPL-Match-and-Player-Performance-Analytics/
 ### 1. 🏆 Most Successful IPL Teams
 Ranked all teams by total wins across all seasons. Mumbai Indians and Chennai Super Kings dominate the standings.
 
-![Winning Chart](images/winning_percentage.png)
+![Winning Chart](toss_impact.png)
 
 ---
 
 ### 2. 🎯 Toss Impact on Match Results
 Analyzed whether toss-winning teams win more often. Choosing to **field first** gives a slight edge.
 
-![Toss Impact](images/toss_impact.png)
+![Toss Impact](toss_impact.png)
 
 ---
 
